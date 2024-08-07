@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: app-conf
+  namespace: final
+data:
+  groupName: "group6"
+  imageURL: "s3://s3-bucket-for-final-project-g6/v2.jpg"
