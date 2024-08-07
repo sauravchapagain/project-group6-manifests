@@ -5,4 +5,4 @@ metadata:
   namespace: final
 data:
   groupName: "group6"
-  imageURL: "s3://s3-bucket-for-final-project-g6/v2.jpg"
+  imageURL: "s3://s3-bucket-for-final-project-g6/bg.jpg"
