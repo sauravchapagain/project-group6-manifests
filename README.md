@@ -79,4 +79,4 @@ kubectl apply -f role.yaml
 kubectl apply -f role-binding.yaml
 ```
 
-
+kubectl delete oopsy
